@@ -1,6 +1,6 @@
 ---
 title: I'm an International Management Student based in Hildesheim
-image: "/images/weihe-janina.jpeg"
+image: "/images/nina.jpg"
 description: blablabla
 
 ---
