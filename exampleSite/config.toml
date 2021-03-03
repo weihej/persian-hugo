@@ -1,10 +1,10 @@
 baseURL = "https://www.weihej.com"
 disqusShortname = ""
-languageCode = "en-us"
-languageName = "En"
+languageCode = "de"
+languageName = "De"
 paginate = "5"
 theme = "persian"
-title = "Persian"
+title = "weihej"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
