@@ -7,7 +7,9 @@ description: This is meta description.
 categories:
 - Formalisierung
 - Aktuelle Standards
-tags: []
+tags:
+- Formalisierung
+- Aktuelle Standards
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
