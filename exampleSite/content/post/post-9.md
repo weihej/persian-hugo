@@ -1,6 +1,6 @@
 ---
 title: 'Woche 1: Einführung/Themenüberblick'
-date: 2019-05-12T12:14:34.000+06:00
+date: 2020-10-29T07:14:34+00:00
 image: images/post/post-4.jpg
 author: Janina Weihe
 description: This is meta description.
