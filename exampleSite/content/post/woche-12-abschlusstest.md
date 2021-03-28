@@ -4,7 +4,7 @@ categories = []
 date = 2021-02-04T11:00:00Z
 description = ""
 image = "/images/post/post-3.jpg"
-tags = []
+tags = ["Aktuelle Standards"]
 title = "Woche 12: Abschlusstest"
 
 +++
