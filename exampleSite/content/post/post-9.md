@@ -4,9 +4,7 @@ date: 2020-10-29T07:14:34+00:00
 image: images/post/post-4.jpg
 author: Janina Weihe
 description: This is meta description.
-categories:
-- Formalisierung
-- Aktuelle Standards
+categories: []
 tags:
 - Formalisierung
 - Aktuelle Standards
