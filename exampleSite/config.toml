@@ -8,16 +8,6 @@ title = "weihej"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Aktuelle Standards"
-parent = "Blog"
-url = "blog/aktuellestandards"
-weight = 2
-[[menu.main]]
-name = "Formalisierung"
-parent = "Blog"
-url = "blog/formalisierung"
-weight = 1
-[[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 4
