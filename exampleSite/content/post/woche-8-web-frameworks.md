@@ -1,7 +1,7 @@
 +++
 author = "Janina Weihe"
 categories = []
-date = 2020-12-16T23:00:00Z
+date = 2020-12-17T11:00:00Z
 description = ""
 image = "/images/post/post-3.jpg"
 tags = ["Formalisierung", "Aktuelle Standards"]
