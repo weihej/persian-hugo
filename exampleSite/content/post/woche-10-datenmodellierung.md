@@ -4,7 +4,7 @@ categories = []
 date = 2021-01-20T23:00:00Z
 description = ""
 image = "/images/post/post-5.jpg"
-tags = []
+tags = ["Aktuelle Standards"]
 title = "Woche 10: Datenmodellierung"
 
 +++
