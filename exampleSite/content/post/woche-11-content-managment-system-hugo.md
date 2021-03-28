@@ -4,7 +4,7 @@ categories = []
 date = 2021-01-27T23:00:00Z
 description = ""
 image = "/images/post/post-4.jpg"
-tags = []
+tags = ["Formalisierung"]
 title = "Woche 11: Content Managment System (Hugo)"
 
 +++
