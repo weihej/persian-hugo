@@ -4,7 +4,7 @@ categories = []
 date = 2020-11-25T23:00:00Z
 description = ""
 image = "/images/post/post-6.jpg"
-tags = []
+tags = ["Aktuelle Standards"]
 title = "Woche 5: DTDs und XML-Schema"
 
 +++
