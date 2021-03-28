@@ -4,7 +4,7 @@ categories = []
 date = 2021-01-06T23:00:00Z
 description = ""
 image = "/images/post/post-6.jpg"
-tags = []
+tags = ["Formalisierung", "Aktuelle Standards"]
 title = "Woche 9: Objektorientierung / Design Patterns"
 
 +++
