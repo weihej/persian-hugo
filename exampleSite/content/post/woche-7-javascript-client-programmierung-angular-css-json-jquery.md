@@ -1,6 +1,6 @@
 +++
 author = "Janina Weihe"
-categories = ["Aktuelle Standards"]
+categories = []
 date = 2020-12-09T23:00:00Z
 description = ""
 image = "/images/post/post-5.jpg"
