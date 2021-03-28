@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = []
-date = 2021-01-27T23:00:00Z
+date = 2021-01-28T11:00:00Z
 description = ""
 image = "/images/post/post-4.jpg"
 tags = ["Formalisierung"]
