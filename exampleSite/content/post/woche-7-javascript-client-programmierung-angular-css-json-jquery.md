@@ -4,7 +4,7 @@ categories = []
 date = 2020-12-09T23:00:00Z
 description = ""
 image = "/images/post/post-5.jpg"
-tags = []
+tags = ["Aktuelle Standards"]
 title = "Woche 7: JavaScript Client Programmierung, Angular, CSS, JSON, JQuery"
 
 +++
