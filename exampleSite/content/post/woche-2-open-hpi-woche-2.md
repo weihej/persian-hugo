@@ -4,7 +4,7 @@ categories = []
 date = 2020-11-04T23:00:00Z
 description = ""
 image = "/images/post/post-5.jpg"
-tags = []
+tags = ["Formalisierung", "Aktuelle Standards"]
 title = "Woche 2: Open HPI Woche 2"
 
 +++
