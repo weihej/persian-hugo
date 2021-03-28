@@ -4,7 +4,7 @@ categories = []
 date = 2020-11-18T23:00:00Z
 description = ""
 image = "/images/post/post-2.jpg"
-tags = []
+tags = ["Formalisierung", "Aktuelle Standards"]
 title = "Woche 4: XML"
 
 +++
