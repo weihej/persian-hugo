@@ -1,4 +1,15 @@
 ---
 label: Blog Site
 hide_body: true
-fields: []
+fields:
+- name: blog
+  type: text
+  config:
+    required: false
+  label: Blog
+  description: blablabla
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: blablabla
