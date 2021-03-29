@@ -13,3 +13,5 @@ fields:
   default: []
   label: Tags
   description: blablabla
+pages:
+- exampleSite/content/pages/Blog Site.md
